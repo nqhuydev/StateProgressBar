@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StateProgressBar.iml" filepath="$PROJECT_DIR$/StateProgressBar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stateprogressbar/stateprogressbar.iml" filepath="$PROJECT_DIR$/stateprogressbar/stateprogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/StateProgressBar.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/StateProgressBar.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/StateProgressBar.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/StateProgressBar.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/StateProgressBar.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/StateProgressBar.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/StateProgressBar.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/StateProgressBar.sample.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stateprogressbar/StateProgressBar.stateprogressbar.iml" filepath="$PROJECT_DIR$/.idea/modules/stateprogressbar/StateProgressBar.stateprogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stateprogressbar/StateProgressBar.stateprogressbar.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/stateprogressbar/StateProgressBar.stateprogressbar.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stateprogressbar/StateProgressBar.stateprogressbar.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stateprogressbar/StateProgressBar.stateprogressbar.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stateprogressbar/StateProgressBar.stateprogressbar.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/stateprogressbar/StateProgressBar.stateprogressbar.unitTest.iml" />
     </modules>
   </component>
 </project>
